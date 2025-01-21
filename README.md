@@ -1,5 +1,5 @@
 <!--Banner-->
-![JulesDimanche Banner Image](./banner.jpg)
+![JulesDimanche Banner Image](./Banner.jpg)
 
 <!--Night Owl image-->
 <div>
@@ -118,7 +118,7 @@
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
 
@@ -338,7 +338,7 @@
 
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
+<!--<p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=Don't%20cry%20because%20it's%20over.%20Smile%20because%20it%20happened.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
@@ -578,7 +578,7 @@
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
+<a href="https://www.githubcom/JulesDimanche" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
@@ -586,7 +586,7 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
+<!--<a href="https://dev.to/dev_kiran" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
