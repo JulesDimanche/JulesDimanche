@@ -54,19 +54,19 @@ I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for
 <!--Contact Section-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
-  <a href="mailto:kirannaragund197@gmail.com" target="_blank">
+  <a href="mailto:julesdimanche200479@gmail.com" target="_blank">
     <img src="./gmail.png" width="50" height="50" alt="Email">
   </a>
-  <a href="https://x.com/kiran__a__n" target="_blank">
+  <a href="https://x.com/JulesDimanche79" target="_blank">
     <img src="./twitter.png" width="50" height="50" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/kiran_a_n" target="_blank">
+  <a href="https://www.instagram.com/jules.dimanche" target="_blank">
     <img src="./instagram.png" width="50" height="50" alt="Instagram">
   </a>
   <a href="https://www.github.com/JulesDimanche" target="_blank">
     <img src="./github.png" width="50" height="50" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+  <a href="https://www.linkedin.com/in/jules-dimanche/" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn">
   </a>
 </div>
